@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+header{
+    background-color: black;
+}
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:30px 0;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 60px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    text-shadow: 0px 4px 7.4px  #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: center;    
+}
+.hero{
+    padding: 100px 0;
+    background-image: url("./img/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-align: center;
+    width: 602px;
+    height: 75px;
+    background-color: white;
+    box-shadow: 16px 18px 28px 0px #FFFFFF40;
+    margin: 10px auto;
+    border-radius: 50px;
+}
+.yash{
+    width: 237px;
+    height: 209px;
+    background: #32FB00;
+    box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+    padding-top: 146px;
+    text-align: center;
+    position: relative;
+}
+.yash h2{
+    color: red;
+}
+.qizl{
+    width: 237px;
+    height: 209px;
+    background: #F70101;
+    box-shadow: 0px 18px 26.5px 0px #FB000040;
+    text-align: center;
+    padding-top: 100px;
+    position: absolute;
+    top: -150px;
+    left: 140px;
+}
+.qizl h2{
+    color: white;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.yash1{
+    width: 237px;
+    height: 209px;
+    background: #32FB00;
+    box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+    padding-top: 146px;
+    text-align: center;
+    position: relative;
+}
+.yash1 h2{
+    color: red;
+}
+.qizl1{
+    width: 411px;
+    height: 209px;
+    background: #F70101;
+    border-radius: 100px;
+    box-shadow: 0px 18px 26.5px 0px #FB000040;
+    text-align: center;
+    padding-top: 100px;
+    position: absolute;
+    top: -150px;
+    left: -80px;
+}
+.qizl1 h2{
+    color: white;
+}
+.yash2{
+    width: 237px;
+    height: 209px;
+    background: #32FB00;
+    box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+    padding-top: 146px;
+    text-align: center;
+    position: relative;
+}
+.yash2 h2{
+    color: red;
+}
+.qizl2{
+    width: 237px;
+    height: 209px;
+    background: #F70101;
+    box-shadow: 0px 18px 26.5px 0px #FB000040;
+    text-align: center;
+    padding-top: 100px;
+    position: absolute;
+    top: -150px;
+    left: -127px;
+}
+.qizl2 h2{
+    color: white;
+}
+.info{
+    background-color: black;
+    padding: 80px 0;
+}
+.card{
+    width: 368px;
+    height: 332px;
+    background: #7B2525;
+    margin-top: 125px;
+}
+h3{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+    text-align: center;    
+    text-shadow: 0px 4px 7.4px #FFFFFF;
+    color: white;
+    padding: 50px 0 68px;
+}
+p{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: center;
+    color: white;
+}
+.card1{
+    width: 368px;
+    height: 332px;
+    background: #7B2525;
+    margin-top: 125px;
+    padding: 0 16px;
+}
+.a{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+    text-align: center;    
+    text-shadow: 0px 4px 7.4px #FFFFFF;
+    color: white;
+    padding: 50px 0 87px;
+}
+.card2{
+    width: 368px;
+    height: 332px;
+    background: #7B2525;
+    margin-top: 125px;
+    padding: 0 28px;
+}
+.b{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+    text-align: center;    
+    text-shadow: 0px 4px 7.4px #FFFFFF;
+    color: white;
+    padding: 52px 0 36px;
+}
+.ada{
+    display: flex;
+    align-items: center;
+    gap: 58px;
+}
